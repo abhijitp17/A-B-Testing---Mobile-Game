@@ -14,3 +14,5 @@ The variables are:
 **sum_gamerounds** - the number of game rounds played by the player during the first 14 days after install<br/>
 **retention_1** - did the player come back and play 1 day after installing?<br/>
 **retention_7** - did the player come back and play 7 days after installing?<br/>
+
+![](cookiecats.jpg)
