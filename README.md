@@ -3,7 +3,7 @@ Conducted A/B test to analyze the player retention for Cookie Cats, a popular mo
 
 Cookie Cats is popular mobile puzzle game developed by Tactile Entertainment. It is a "connect-three" puzzle game where the player connect tiles of same color to clear the board and win the level.
 
-As the game progresses through the levels, the player cencounters gates that ofrces the player to wait an amount of time or make an in-app purchase. These gates also gives the players an enforced break from playing the game resulting in an increase in the enjoyment of the game.
+As the game progresses through the levels, the player cencounters gates that offers the player to wait an amount of time or make an in-app purchase. These gates also gives the players an enforced break from playing the game resulting in an increase in the enjoyment of the game.
 
 But where the gates should be places? Initially the gates was placed at level 30, but here we are analyzing an AB-test wherewe moved the first gate in the game from level 30 to level 40. We are looking at the impact on player retention.
 
